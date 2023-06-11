@@ -24,3 +24,7 @@ npm install
 Bước 4: Chạy dự án:
 
 npm run dev
+
+Bước 5 : Mở trình duyệt và nhập link:
+
+http://localhost:5173/
