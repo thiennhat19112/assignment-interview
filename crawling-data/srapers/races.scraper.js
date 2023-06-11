@@ -131,6 +131,7 @@ export const scraperLocations = (browser, urls) =>
             let result = {};
             result.allLocation = locationData;
             result.dataTable = dataChild;
+            result.year = locationData[0].link.split("/")[5];
 
             res([result]);
           } catch (err) {
