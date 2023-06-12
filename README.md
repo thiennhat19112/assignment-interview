@@ -15,6 +15,7 @@ Truy cập trang chủ của Node.js tại https://nodejs.org và tải xuống 
 Bước 2: Clone dự án từ GitHub:
 
 git clone https://github.com/thiennhat19112/assignment-interview.git
+
 cd assignment-interview/front-end
 
 Bước 3: Cài đặt các gói phần mềm cần thiết:
